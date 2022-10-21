@@ -1,0 +1,1 @@
+# My-Virtual-Shop---Jira-Project---Bug-Report-Example
