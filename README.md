@@ -34,6 +34,9 @@ P2 - High
 
 ________________________________________
 This bug report is included in my Virtual Online Shop - Jira Project(free/trial version). Screenshots Attached
+
 A real world bug example.
-My project also contain Story(+Story points), Epic, Tasks, bugs/issues and Sprints.
+
+My project also contains Story(+Story points), Epic, Tasks, bugs/issues and Sprints.
+
 Designed for learning and training.
